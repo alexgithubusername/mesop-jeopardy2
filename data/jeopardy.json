@@ -1,0 +1,302 @@
+{
+  "topic": "Seizures",
+  "OUTPUT": {
+    "Jeopardy_questions": [
+      {
+        "category": "Neurology",
+        "question": "'This is a transient disturbance of cerebral function due to synchronized neuronal discharge'",
+        "value": "$200",
+        "answer": "What is a seizure?",
+        "reference": "Clinical Neurology Textbook, 2023",
+        "round": "Quiz Show!",
+        "show_number": "1"
+      },
+      {
+        "category": "Neurology",
+        "question": "'These metabolic disturbances can provoke seizures'",
+        "value": "$400",
+        "answer": "What are hypo/hypernatremia, hypo/hyperglycemia, hypomagnesemia, hypocalcemia, hyperammonemia, hyperthyroidism, uremia, hyperthermia?",
+        "reference": "Clinical Neurology Textbook, 2023",
+        "round": "Quiz Show!",
+        "show_number": "2"
+      },
+      {
+        "category": "Neurology",
+        "question": "'This type of seizure is characterized by focal neurological deficits that may indicate an underlying brain lesion'",
+        "value": "$600",
+        "answer": "What is a focal seizure?",
+        "reference": "Clinical Neurology Textbook, 2023",
+        "round": "Quiz Show!",
+        "show_number": "3"
+      },
+      {
+        "category": "Neurology",
+        "question": "'This imaging modality is urgently recommended for the work-up of first-time seizures to evaluate for hemorrhage, mass, or abscess'",
+        "value": "$800",
+        "answer": "What is a CT scan?",
+        "reference": "Clinical Neurology Textbook, 2023",
+        "round": "Quiz Show!",
+        "show_number": "4"
+      },
+      {
+        "category": "Neurology",
+        "question": "'This rare autoimmune condition can cause seizures and is associated with antibodies against NMDA receptors'",
+        "value": "$1000",
+        "answer": "What is NMDA receptor encephalitis?",
+        "reference": "Clinical Neurology Textbook, 2023",
+        "round": "Quiz Show!",
+        "show_number": "5"
+      }
+    ]
+  },
+  "topic": "Hypertension",
+  "OUTPUT": {
+    "Jeopardy_questions": [
+      {
+        "category": "Cardiology",
+        "question": "'This is the medical term for high blood pressure'",
+        "value": "$200",
+        "answer": "What is hypertension?",
+        "reference": "American Heart Association Guidelines, 2023",
+        "round": "Quiz Show!",
+        "show_number": "1"
+      },
+      {
+        "category": "Cardiology",
+        "question": "'These drugs are often the first-line treatment for hypertension, helping the body eliminate excess sodium and water'",
+        "value": "$400",
+        "answer": "What are thiazide diuretics?",
+        "reference": "JNC 8 Guidelines, 2019",
+        "round": "Quiz Show!",
+        "show_number": "2"
+      },
+      {
+        "category": "Cardiology",
+        "question": "'This phenomenon describes elevated blood pressure readings in a clinical setting but not in other settings'",
+        "value": "$600",
+        "answer": "What is white-coat hypertension?",
+        "reference": "Bates' Guide to Physical Examination, 12th Edition",
+        "round": "Quiz Show!",
+        "show_number": "3"
+      },
+      {
+        "category": "Cardiology",
+        "question": "'This endocrine disorder causing secondary hypertension results from excessive aldosterone production'",
+        "value": "$800",
+        "answer": "What is Conn's syndrome?",
+        "reference": "Endocrinology Textbook, 5th Edition",
+        "round": "Quiz Show!",
+        "show_number": "4"
+      },
+      {
+        "category": "Cardiology",
+        "question": "'This rare genetic condition leads to hypertension due to a mutation affecting sodium channels in the kidneys'",
+        "value": "$1000",
+        "answer": "What is Liddle's syndrome?",
+        "reference": "Journal of Clinical Hypertension, 2021",
+        "round": "Quiz Show!",
+        "show_number": "5"
+      }
+    ]
+  },
+  "topic": "Diabetes Mellitus",
+  "OUTPUT": {
+    "Jeopardy_questions": [
+      {
+        "category": "Endocrinology",
+        "question": "'This is the medical term for high blood sugar levels'",
+        "value": "$200",
+        "answer": "What is hyperglycemia?",
+        "reference": "American Diabetes Association Guidelines, 2023",
+        "round": "Quiz Show!",
+        "show_number": "1"
+      },
+      {
+        "category": "Endocrinology",
+        "question": "'This hormone, produced by the pancreas, helps regulate blood sugar levels'",
+        "value": "$400",
+        "answer": "What is insulin?",
+        "reference": "Endocrinology Textbook, 6th Edition",
+        "round": "Quiz Show!",
+        "show_number": "2"
+      },
+      {
+        "category": "Endocrinology",
+        "question": "'This type of diabetes is characterized by insulin resistance and is often associated with obesity'",
+        "value": "$600",
+        "answer": "What is Type 2 Diabetes?",
+        "reference": "National Institute of Diabetes and Digestive and Kidney Diseases",
+        "round": "Quiz Show!",
+        "show_number": "3"
+      },
+      {
+        "category": "Endocrinology",
+        "question": "'This test measures the average blood glucose levels over the past 2-3 months'",
+        "value": "$800",
+        "answer": "What is the HbA1c test?",
+        "reference": "American Diabetes Association Guidelines, 2023",
+        "round": "Quiz Show!",
+        "show_number": "4"
+      },
+      {
+        "category": "Endocrinology",
+        "question": "'This acute complication of diabetes involves extremely high blood sugar levels and ketone production'",
+        "value": "$1000",
+        "answer": "What is diabetic ketoacidosis?",
+        "reference": "Harrison's Principles of Internal Medicine, 20th Edition",
+        "round": "Quiz Show!",
+        "show_number": "5"
+      }
+    ]
+  },
+  "topic": "Tumor Lysis Syndrome",
+  "OUTPUT": {
+    "Jeopardy_questions": [
+      {
+        "category": "Oncology",
+        "question": "'This syndrome occurs when cancer cells release their contents into the bloodstream, often after chemotherapy'",
+        "value": "$200",
+        "answer": "What is tumor lysis syndrome?",
+        "reference": "National Cancer Institute, 2023",
+        "round": "Quiz Show!",
+        "show_number": "1"
+      },
+      {
+        "category": "Oncology",
+        "question": "'This electrolyte imbalance, characterized by high levels of potassium in the blood, is a common feature of tumor lysis syndrome'",
+        "value": "$400",
+        "answer": "What is hyperkalemia?",
+        "reference": "Harrison's Principles of Internal Medicine, 20th Edition",
+        "round": "Quiz Show!",
+        "show_number": "2"
+      },
+      {
+        "category": "Oncology",
+        "question": "'This medication is often used to prevent uric acid nephropathy in patients at high risk for tumor lysis syndrome'",
+        "value": "$600",
+        "answer": "What is allopurinol?",
+        "reference": "American Society of Clinical Oncology Guidelines, 2022",
+        "round": "Quiz Show!",
+        "show_number": "3"
+      },
+      {
+        "category": "Oncology",
+        "question": "'This enzyme, used in the treatment of tumor lysis syndrome, converts uric acid to allantoin, which is more easily excreted by the kidneys'",
+        "value": "$800",
+        "answer": "What is rasburicase?",
+        "reference": "Journal of Clinical Oncology, 2021",
+        "round": "Quiz Show!",
+        "show_number": "4"
+      },
+      {
+        "category": "Oncology",
+        "question": "'This life-threatening complication of tumor lysis syndrome is characterized by the rapid development of acute kidney injury'",
+        "value": "$1000",
+        "answer": "What is acute renal failure?",
+        "reference": "Nephrology Textbook, 6th Edition",
+        "round": "Quiz Show!",
+        "show_number": "5"
+      }
+    ]
+  },
+  "topic": "DKA",
+  "OUTPUT": {
+    "Jeopardy_questions": [
+      {
+        "category": "Endocrinology",
+        "question": "'This is the abbreviation for a serious complication of diabetes characterized by hyperglycemia, ketosis, and acidosis'",
+        "value": "$200",
+        "answer": "What is DKA?",
+        "reference": "American Diabetes Association Guidelines, 2023",
+        "round": "Quiz Show!",
+        "show_number": "1"
+      },
+      {
+        "category": "Endocrinology",
+        "question": "'This type of diabetes is most commonly associated with DKA'",
+        "value": "$400",
+        "answer": "What is Type 1 Diabetes?",
+        "reference": "Harrison's Principles of Internal Medicine, 20th Edition",
+        "round": "Quiz Show!",
+        "show_number": "2"
+      },
+      {
+        "category": "Endocrinology",
+        "question": "'This electrolyte imbalance is commonly seen in DKA and requires careful monitoring and replacement'",
+        "value": "$600",
+        "answer": "What is hypokalemia?",
+        "reference": "Endocrine Society Clinical Practice Guidelines, 2022",
+        "round": "Quiz Show!",
+        "show_number": "3"
+      },
+      {
+        "category": "Endocrinology",
+        "question": "'This fruity odor on the breath is a classic sign of DKA due to the presence of ketones'",
+        "value": "$800",
+        "answer": "What is acetone breath?",
+        "reference": "Diabetes Care Journal, 2021",
+        "round": "Quiz Show!",
+        "show_number": "4"
+      },
+      {
+        "category": "Endocrinology",
+        "question": "'This life-threatening complication of DKA involves swelling of the brain and is more common in children'",
+        "value": "$1000",
+        "answer": "What is cerebral edema?",
+        "reference": "Pediatric Endocrinology Textbook, 4th Edition",
+        "round": "Quiz Show!",
+        "show_number": "5"
+      }
+    ]
+  },
+  "topic": "COVID",
+  "OUTPUT": {
+    "Jeopardy_questions": [
+      {
+        "category": "Infectious Diseases",
+        "question": "'This virus is responsible for the COVID-19 pandemic'",
+        "value": "$200",
+        "answer": "What is SARS-CoV-2?",
+        "reference": "World Health Organization (WHO), 2023",
+        "round": "Quiz Show!",
+        "show_number": "1"
+      },
+      {
+        "category": "Infectious Diseases",
+        "question": "'This is the primary mode of transmission for COVID-19'",
+        "value": "$400",
+        "answer": "What are respiratory droplets?",
+        "reference": "Centers for Disease Control and Prevention (CDC), 2023",
+        "round": "Quiz Show!",
+        "show_number": "2"
+      },
+      {
+        "category": "Infectious Diseases",
+        "question": "'This term describes the period between exposure to the virus and the onset of symptoms'",
+        "value": "$600",
+        "answer": "What is the incubation period?",
+        "reference": "New England Journal of Medicine, 2020",
+        "round": "Quiz Show!",
+        "show_number": "3"
+      },
+      {
+        "category": "Infectious Diseases",
+        "question": "'This antiviral drug received emergency use authorization for the treatment of COVID-19 in hospitalized patients'",
+        "value": "$800",
+        "answer": "What is remdesivir?",
+        "reference": "Food and Drug Administration (FDA), 2020",
+        "round": "Quiz Show!",
+        "show_number": "4"
+      },
+      {
+        "category": "Infectious Diseases",
+        "question": "'This syndrome, characterized by severe respiratory distress, is a common complication in severe COVID-19 cases'",
+        "value": "$1000",
+        "answer": "What is Acute Respiratory Distress Syndrome (ARDS)?",
+        "reference": "Journal of the American Medical Association (JAMA), 2020",
+        "round": "Quiz Show!",
+        "show_number": "5"
+      }
+    ]
+  }
+}
