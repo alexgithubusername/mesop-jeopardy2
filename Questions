@@ -1,0 +1,272 @@
+{
+    {
+      "category": "Neurology",
+      "question": "'This is the medical term for a sudden interruption of blood supply to the brain'",
+      "value": "$200",
+      "answer": "What is a stroke?",
+      "reference": "American Stroke Association, 2023",
+      "round": "Quiz Show!",
+      "show_number": "1"
+    },
+    {
+      "category": "Neurology",
+      "question": "'This type of stroke occurs when a blood vessel in the brain bursts, causing bleeding'",
+      "value": "$400",
+      "answer": "What is a hemorrhagic stroke?",
+      "reference": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "round": "Quiz Show!",
+      "show_number": "2"
+    },
+    {
+      "category": "Neurology",
+      "question": "'This acronym is used to help people remember the signs of a stroke: Face drooping, Arm weakness, Speech difficulty, Time to call 911'",
+      "value": "$600",
+      "answer": "What is FAST?",
+      "reference": "American Heart Association Guidelines, 2023",
+      "round": "Quiz Show!",
+      "show_number": "3"
+    },
+    {
+      "category": "Neurology",
+      "question": "'This imaging technique is often the first step in diagnosing a stroke, providing detailed images of the brain'",
+      "value": "$800",
+      "answer": "What is a CT scan?",
+      "reference": "Radiology Textbook, 7th Edition",
+      "round": "Quiz Show!",
+      "show_number": "4"
+    },
+    {
+      "category": "Neurology",
+      "question": "'This clot-busting medication is used to treat ischemic stroke if administered within a certain time window'",
+      "value": "$1000",
+      "answer": "What is tissue plasminogen activator (tPA)?",
+      "reference": "Journal of Stroke and Cerebrovascular Diseases, 2021",
+      "round": "Quiz Show!",
+      "show_number": "5"
+    }
+    {
+      "category": "Rheumatology",
+      "question": "'This autoimmune disease is characterized by the body's immune system attacking its own tissues, leading to inflammation and damage in various organs'",
+      "value": "$200",
+      "answer": "What is systemic lupus erythematosus (SLE)?",
+      "reference": "American College of Rheumatology Guidelines, 2023",
+      "round": "Quiz Show!",
+      "show_number": "1"
+    },
+    {
+      "category": "Rheumatology",
+      "question": "'This type of rash, often seen in SLE patients, appears on the cheeks and bridge of the nose and is named after an insect'",
+      "value": "$400",
+      "answer": "What is a butterfly rash?",
+      "reference": "Lupus Foundation of America",
+      "round": "Quiz Show!",
+      "show_number": "2"
+    },
+    {
+      "category": "Rheumatology",
+      "question": "'This blood test is commonly used to help diagnose SLE by detecting antinuclear antibodies'",
+      "value": "$600",
+      "answer": "What is the ANA test?",
+      "reference": "Harrison's Principles of Internal Medicine, 20th Edition",
+      "round": "Quiz Show!",
+      "show_number": "3"
+    },
+    {
+      "category": "Rheumatology",
+      "question": "'This organ is frequently affected in SLE, leading to a condition known as lupus nephritis'",
+      "value": "$800",
+      "answer": "What are the kidneys?",
+      "reference": "Nephrology Textbook, 5th Edition",
+      "round": "Quiz Show!",
+      "show_number": "4"
+    },
+    {
+      "category": "Rheumatology",
+      "question": "'This specific type of antibody is associated with an increased risk of blood clots in SLE patients'",
+      "value": "$1000",
+      "answer": "What is antiphospholipid antibody?",
+      "reference": "Journal of Rheumatology, 2021",
+      "round": "Quiz Show!",
+      "show_number": "5"
+    }
+    {
+      "category": "Endocrinology",
+      "question": "'This is the medical term for an overactive thyroid gland'",
+      "value": "$200",
+      "answer": "What is hyperthyroidism?",
+      "reference": "American Thyroid Association Guidelines, 2023",
+      "round": "Quiz Show!",
+      "show_number": "1"
+    },
+    {
+      "category": "Endocrinology",
+      "question": "'This autoimmune disorder is the most common cause of hyperthyroidism'",
+      "value": "$400",
+      "answer": "What is Graves' disease?",
+      "reference": "Harrison's Principles of Internal Medicine, 20th Edition",
+      "round": "Quiz Show!",
+      "show_number": "2"
+    },
+    {
+      "category": "Endocrinology",
+      "question": "'This symptom of hyperthyroidism involves an increased heart rate'",
+      "value": "$600",
+      "answer": "What is tachycardia?",
+      "reference": "Endocrinology Textbook, 5th Edition",
+      "round": "Quiz Show!",
+      "show_number": "3"
+    },
+    {
+      "category": "Endocrinology",
+      "question": "'This diagnostic test measures the levels of thyroid-stimulating hormone (TSH) in the blood'",
+      "value": "$800",
+      "answer": "What is a TSH test?",
+      "reference": "Clinical Practice Guidelines for Endocrinology, 2022",
+      "round": "Quiz Show!",
+      "show_number": "4"
+    },
+    {
+      "category": "Endocrinology",
+      "question": "'This severe form of hyperthyroidism can lead to a life-threatening condition characterized by fever, delirium, and tachycardia'",
+      "value": "$1000",
+      "answer": "What is thyroid storm?",
+      "reference": "Journal of Clinical Endocrinology & Metabolism, 2021",
+      "round": "Quiz Show!",
+      "show_number": "5"
+    }
+    {
+      "category": "Hematology",
+      "question": "'This type of lymphoma originates from B cells and is characterized by the presence of Reed-Sternberg cells'",
+      "value": "$200",
+      "answer": "What is Hodgkin lymphoma?",
+      "reference": "Harrison's Principles of Internal Medicine, 20th Edition",
+      "round": "Quiz Show!",
+      "show_number": "1"
+    },
+    {
+      "category": "Hematology",
+      "question": "'This subtype of B cell lymphoma is the most common and is known for its rapid growth'",
+      "value": "$400",
+      "answer": "What is diffuse large B-cell lymphoma (DLBCL)?",
+      "reference": "WHO Classification of Tumours of Haematopoietic and Lymphoid Tissues, 2017",
+      "round": "Quiz Show!",
+      "show_number": "2"
+    },
+    {
+      "category": "Hematology",
+      "question": "'This indolent form of B cell lymphoma often presents with painless lymphadenopathy and has a relapsing-remitting course'",
+      "value": "$600",
+      "answer": "What is follicular lymphoma?",
+      "reference": "NCCN Guidelines for B-Cell Lymphomas, 2023",
+      "round": "Quiz Show!",
+      "show_number": "3"
+    },
+    {
+      "category": "Hematology",
+      "question": "'This aggressive B cell lymphoma is associated with a translocation involving the MYC gene on chromosome 8'",
+      "value": "$800",
+      "answer": "What is Burkitt lymphoma?",
+      "reference": "Journal of Clinical Oncology, 2021",
+      "round": "Quiz Show!",
+      "show_number": "4"
+    },
+    {
+      "category": "Hematology",
+      "question": "'This rare subtype of B cell lymphoma is characterized by the presence of large cells with abundant cytoplasm and is often associated with Epstein-Barr virus (EBV) infection'",
+      "value": "$1000",
+      "answer": "What is primary effusion lymphoma?",
+      "reference": "Blood Journal, 2020",
+      "round": "Quiz Show!",
+      "show_number": "5"
+    }
+    {
+      "category": "Endocrinology",
+      "question": "'This is the primary hormone deficiency in Addison's disease'",
+      "value": "$200",
+      "answer": "What is cortisol?",
+      "reference": "Harrison's Principles of Internal Medicine, 20th Edition",
+      "round": "Quiz Show!",
+      "show_number": "1"
+    },
+    {
+      "category": "Endocrinology",
+      "question": "'This test is commonly used to diagnose adrenal insufficiency by measuring cortisol response'",
+      "value": "$400",
+      "answer": "What is the ACTH stimulation test?",
+      "reference": "Endocrine Society Clinical Practice Guidelines, 2020",
+      "round": "Quiz Show!",
+      "show_number": "2"
+    },
+    {
+      "category": "Endocrinology",
+      "question": "'This electrolyte imbalance is often seen in patients with primary adrenal insufficiency'",
+      "value": "$600",
+      "answer": "What is hyperkalemia?",
+      "reference": "Williams Textbook of Endocrinology, 14th Edition",
+      "round": "Quiz Show!",
+      "show_number": "3"
+    },
+    {
+      "category": "Endocrinology",
+      "question": "'This autoimmune condition is the most common cause of primary adrenal insufficiency in developed countries'",
+      "value": "$800",
+      "answer": "What is autoimmune adrenalitis?",
+      "reference": "Journal of Clinical Endocrinology & Metabolism, 2019",
+      "round": "Quiz Show!",
+      "show_number": "4"
+    },
+    {
+      "category": "Endocrinology",
+      "question": "'This genetic disorder, characterized by mutations in the CYP21A2 gene, can lead to adrenal insufficiency'",
+      "value": "$1000",
+      "answer": "What is congenital adrenal hyperplasia?",
+      "reference": "Genetics in Medicine, 2021",
+      "round": "Quiz Show!",
+      "show_number": "5"
+    }
+    {
+      "category": "Pharmacology",
+      "question": "'This term describes a harmful reaction that occurs when two or more drugs are taken together'",
+      "value": "$200",
+      "answer": "What is an adverse drug interaction?",
+      "reference": "FDA Drug Interaction Guidelines, 2023",
+      "round": "Quiz Show!",
+      "show_number": "1"
+    },
+    {
+      "category": "Pharmacology",
+      "question": "'This common pain reliever can increase the risk of bleeding when taken with anticoagulants like warfarin'",
+      "value": "$400",
+      "answer": "What is aspirin?",
+      "reference": "American College of Cardiology, 2022",
+      "round": "Quiz Show!",
+      "show_number": "2"
+    },
+    {
+      "category": "Pharmacology",
+      "question": "'This class of antibiotics can cause QT prolongation when combined with certain antiarrhythmic drugs'",
+      "value": "$600",
+      "answer": "What are fluoroquinolones?",
+      "reference": "Clinical Pharmacology Textbook, 11th Edition",
+      "round": "Quiz Show!",
+      "show_number": "3"
+    },
+    {
+      "category": "Pharmacology",
+      "question": "'This herbal supplement can reduce the effectiveness of oral contraceptives by inducing liver enzymes'",
+      "value": "$800",
+      "answer": "What is St. John's Wort?",
+      "reference": "Herbal Medicine Interactions, 2021",
+      "round": "Quiz Show!",
+      "show_number": "4"
+    },
+    {
+      "category": "Pharmacology",
+      "question": "'This serious condition can occur when SSRIs are taken with MAO inhibitors, characterized by symptoms like agitation, confusion, and rapid heart rate'",
+      "value": "$1000",
+      "answer": "What is serotonin syndrome?",
+      "reference": "Psychiatry Guidelines, 2023",
+      "round": "Quiz Show!",
+      "show_number": "5"
+    }
+}
